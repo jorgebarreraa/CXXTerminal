@@ -2,6 +2,7 @@
 
 #include <string>
 #include <vector>
+#include <cstdint>
 
 #define STYLE_MAGIC 0
 #define STYLE_BOLD 1
